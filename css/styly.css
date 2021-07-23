@@ -1,0 +1,17 @@
+
+    .fa-star{
+        font-size: 16px;
+    }
+    .fa-star.filled{
+        color: #FFC014;
+    }
+    .fa-star.empty{
+        color:#AEAEAE;
+    }
+    .f-color{
+        color: #ED6B4F;
+    }
+    .bg-theme{
+        background-color: #FEE5DF;
+    }
+    
